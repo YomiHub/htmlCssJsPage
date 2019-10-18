@@ -29,7 +29,7 @@ header {
   position: absolute;
   left: 0px;
   top: 6px;
-  background: url(index_hot.gif) repeat-x;
+  background: url(image/index_hot.gif) repeat-x;
 }
 
 #sign {
@@ -69,7 +69,7 @@ header {
   position: absolute;
   left: 305px;
   top: 55px;
-  background: url(serchss.gif) no-repeat;
+  background: url(image/serchss.gif) no-repeat;
 }
 
 .search form input {
@@ -102,7 +102,7 @@ header {
   position: absolute;
   right: 2px;
   top: 56px;
-  background: url(cartinfo.gif);
+  background: url(image/cartinfo.gif);
 }
 
 .shopcar a {
@@ -120,7 +120,7 @@ header {
 .lanmu {
   width: 990px;
   height: 38px;
-  background: url(Nalist1.gif);
+  background: url(image/Nalist1.gif);
   position: absolute;
   left: 0px;
   top: 122px;
@@ -145,11 +145,11 @@ header {
 }
 
 .lanmu a:hover {
-  background: url(Nalist_hover.gif) repeat-x;
+  background: url(image/Nalist_hover.gif) repeat-x;
 }
 
 .lanmu li.hover a {
-  background: url(Nalist_hover.gif) repeat-x;
+  background: url(image/Nalist_hover.gif) repeat-x;
 }
 
 section {
@@ -172,7 +172,7 @@ section {
   width: 200px;
   height: 27px;
   text-align: left;
-  background: url(category_tree_bg.gif) repeat-x;
+  background: url(image/category_tree_bg.gif) repeat-x;
 }
 
 .mainlside .submit1 a {
@@ -227,7 +227,7 @@ section {
   line-height: 17px;
   font-size: 13px;
   color: #424242;
-  background: url(bg.gif) no-repeat -287px -29px;
+  background: url(image/bg.gif) no-repeat -287px -29px;
   padding-left: 8px;
 }
 
@@ -346,7 +346,7 @@ section .tshirt {
   font-size: 12px;
   font-weight: 100;
   color: rgb(0, 0, 0);
-  background: url(bg.gif) -151px -48px no-repeat;
+  background: url(image/bg.gif) -151px -48px no-repeat;
   margin-bottom: 8px;
   vertical-align: middle;
 }
@@ -395,7 +395,7 @@ section .tshirt {
   color: rgb(89, 89, 89);
   line-height: 27px;
   text-align: left;
-  background: url(index_hot.gif) repeat-x;
+  background: url(image/index_hot.gif) repeat-x;
 }
 
 .mainrside .shop .advertisement .word .advtsm {
@@ -437,7 +437,7 @@ section .tshirt {
   padding-left: 15px;
   font-size: 14px;
   font-weight: bold;
-  background: url(index_hot.gif) repeat-x;
+  background: url(image/index_hot.gif) repeat-x;
   position: relative;
 }
 
@@ -541,7 +541,7 @@ footer {
   width: 135px;
   padding-left: 10px;
   text-align: left;
-  background: url(tubiao.gif) no-repeat left center;
+  background: url(image/tubiao.gif) no-repeat left center;
 }
 
 .helptip .helpt li a {
